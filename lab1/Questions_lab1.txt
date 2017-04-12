@@ -1,0 +1,1 @@
+Find a class employee. Each employee should have a name and salary, parameterized constructor, should initialise the name and salary. The method salarychange(amount) should increase or decrease the salary by the specified amount. Quit() should reset the salary to 0. Print name after each transaction. 
